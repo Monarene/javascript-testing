@@ -7,6 +7,7 @@
     "test": "test"
   },
   "dependencies": {
+    "coffeescript": "^2.5.1",
     "moment": "^2.27.0"
   },
   "devDependencies": {
