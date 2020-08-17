@@ -11,5 +11,8 @@
     "subscription"
   ],
   "author": "Michael Mekuleyi",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "underscore": "^1.10.2"
+  }
 }
