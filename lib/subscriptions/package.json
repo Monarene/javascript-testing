@@ -1,0 +1,15 @@
+{
+  "name": "subscriptions",
+  "version": "1.0.0",
+  "description": "A subscription module for RocketShop",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tests",
+    "subscription"
+  ],
+  "author": "Michael Mekuleyi",
+  "license": "ISC"
+}
