@@ -1,0 +1,27 @@
+{
+  "name": "roceket-shop",
+  "version": "1.0.0",
+  "description": "A subscription Platform",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "moment": "^2.27.0"
+  },
+  "devDependencies": {
+    "mocha": "^8.1.1",
+    "sinon": "^9.0.3"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "Tests",
+    "testing",
+    "Mocha",
+    "JS"
+  ],
+  "author": "Michael Mekuleyi",
+  "license": "ISC"
+}
