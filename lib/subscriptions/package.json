@@ -13,6 +13,7 @@
   "author": "Michael Mekuleyi",
   "license": "ISC",
   "dependencies": {
+    "moment": "^2.27.0",
     "underscore": "^1.10.2"
   }
 }
